@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Card, CardImg, CardImgOverlay, CardTitle } from 'reactstrap';
-import DishDetail from './DishdetailComponent';  // Certifique-se de que o caminho está correto
+import DishDetail from './DishdetailComponent';
 
 const Menu = ({ dishes }) => {
   console.log(dishes); // Verifique os pratos no console para depuração

@@ -1,7 +1,7 @@
 export const DISHES = [
     {
       id: 0,
-      name: 'Uthappizza',
+      name: 'Pizza Uthappizza',
       image: '/assets/images/uthappizza.png',
       category: 'prato principal',
       label: 'Quente',
@@ -21,7 +21,7 @@ export const DISHES = [
     },
     {
       id: 1,
-      name: 'Zucchipakoda',
+      name: 'Pakoda de Abobrinha',
       image: '/assets/images/zucchipakoda.png',
       category: 'aperitivo',
       label: '',
@@ -41,7 +41,7 @@ export const DISHES = [
     },
     {
       id: 2,
-      name: 'Vadonut',
+      name: 'Donut Vada',
       image: '/assets/images/vadonut.png',
       category: 'aperitivo',
       label: 'Novo',
@@ -61,7 +61,7 @@ export const DISHES = [
     },
     {
       id: 3,
-      name: 'ElaiCheese Cake',
+      name: 'Cheesecake de Cardamomo',
       image: '/assets/images/elaicheesecake.png',
       category: 'sobremesa',
       label: '',
